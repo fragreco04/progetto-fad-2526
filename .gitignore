@@ -1,1 +1,31 @@
-note-mie.md
+note_mie.md
+
+# File temporanei di Jupyter Notebook
+.ipynb_checkpoints/
+
+# File Python compilati
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambienti virtuali
+venv/
+env/
+.venv/
+.env/
+
+# File di log
+*.log
+
+# Configurazioni locali e OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# File di output di notebook
+*.nbconvert.ipynb
+
+# Cartelle o file di dataset temporanei
+data/tmp/
+output/tmp/
