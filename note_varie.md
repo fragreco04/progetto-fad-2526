@@ -1,0 +1,2 @@
+To do:
+- Gestione outliers
