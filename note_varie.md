@@ -14,3 +14,9 @@ Nota bene:
 
 Idee:
 - Engine potremmo trasformarla in categorica applicando degli intervalli: 1 -> [0, 1000] etc..
+
+
+
+--- Pippo:
+    Ricordarsi di modificare alcune variabili da continue a discrete
+    Più avanti nell analisi, notare il fatto che ci sono due elettriche, e rimuoverle
