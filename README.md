@@ -1,5 +1,7 @@
 # Progetto FAD 25/26
-Progetto di gruppo per il corso di *Fondamenti di Analisi dei Dati* — A.A. 2025/2026  
+Progetto di gruppo per il corso di *Fondamenti di Analisi dei Dati* — A.A. 2025/2026 
+
+**Nome del gruppo**: *The Bayesians*
 
 **Membri del gruppo**  
 - Filippo Falzone  
