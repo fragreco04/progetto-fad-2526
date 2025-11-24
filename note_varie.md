@@ -21,3 +21,8 @@ tabella_frequenza = pd.DataFrame({
 })
 
 print(tabella_frequenza)
+
+
+
+Consiglio per il tool:
+Utilizzare un classificatore, in cui dentro creiamo dei regressori
