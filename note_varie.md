@@ -5,8 +5,6 @@ Aggiunte:
 - 
 
 
-
-
 # es. tabella di frequenza
 
 # 1. Calcola le frequenze assolute
