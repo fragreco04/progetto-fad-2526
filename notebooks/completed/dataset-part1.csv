@@ -73,10 +73,8 @@ Hyundai,i10,Kochi,7,45178.0,Petrol,Automatic,First,16,1197,78.9,5.0,3.48
 Nissan,Terrano,Kochi,4,56066.0,Diesel,Manual,First,19,1461,108.5,5.0,6.92
 Honda,Brio,Coimbatore,3,37300.0,Petrol,Automatic,Second,16,1198,86.8,5.0,6.46
 Audi,A6,Delhi,5,56000.0,Diesel,Automatic,Second,18,1968,187.74,5.0,29.5
-Ford,Fiesta,Jaipur,11,111111.0,Diesel,Manual,First,17,1399,,5.0,2.0
 Toyota,Innova,Chennai,13,170000.0,Petrol,Manual,Third,12,1998,132.0,8.0,4.5
 Toyota,Innova,Hyderabad,7,104000.0,Diesel,Manual,First,12,2494,102.0,7.0,11.75
-Hyundai,Santro,Hyderabad,14,87591.0,Petrol,Manual,First,0,1086,,5.0,1.3
 Maruti,Swift,Jaipur,7,95100.0,Diesel,Manual,First,22,1248,74.0,5.0,3.75
 Tata,Zest,Pune,2,70000.0,Petrol,Manual,First,17,1193,88.7,5.0,4.5
 Honda,Amaze,Kochi,3,54944.0,Petrol,Manual,First,18,1198,86.7,5.0,4.82
@@ -86,7 +84,6 @@ Honda,City,Delhi,10,52000.0,Petrol,Manual,First,17,1497,117.3,5.0,3.25
 BMW,5,Delhi,8,75000.0,Diesel,Automatic,Second,16,1995,218.0,5.0,13.9
 Hyundai,i10,Pune,10,95980.0,Petrol,Manual,First,20,1197,78.9,5.0,2.25
 Hyundai,Grand,Bangalore,3,16000.0,Petrol,Manual,First,18,1197,82.0,5.0,5.75
-Hyundai,Santro,Hyderabad,12,73745.0,Petrol,Manual,First,17,1086,,5.0,2.1
 Honda,Amaze,Mumbai,3,18949.0,Petrol,Manual,First,17,1198,86.7,5.0,5.0
 Toyota,Fortuner,Delhi,5,107000.0,Diesel,Manual,First,13,2982,168.5,7.0,16.5
 Audi,A6,Coimbatore,1,48367.0,Diesel,Automatic,First,17,1968,174.33,5.0,39.58
@@ -117,7 +114,6 @@ Volvo,V40,Bangalore,5,32700.0,Diesel,Automatic,First,23,1984,150.0,5.0,20.0
 Nissan,Micra,Coimbatore,3,39882.0,Petrol,Automatic,First,19,1198,75.94,5.0,6.55
 BMW,5,Mumbai,10,128000.0,Petrol,Automatic,First,10,2497,215.0,5.0,7.0
 Maruti,Vitara,Mumbai,3,55000.0,Diesel,Manual,First,24,1248,88.5,5.0,7.5
-Hyundai,Santro,Mumbai,14,102000.0,Petrol,Manual,Second,17,1086,,5.0,0.85
 Mercedes-Benz,B,Pune,5,53753.0,Diesel,Automatic,Second,15,2143,107.3,5.0,16.75
 Hyundai,Verna,Kolkata,1,10250.0,Diesel,Manual,First,22,1582,126.2,5.0,10.95
 Maruti,Wagon,Pune,8,43874.0,Petrol,Manual,First,18,998,67.1,5.0,2.45
@@ -139,7 +135,6 @@ Honda,Civic,Delhi,7,88578.0,Petrol,Manual,First,13,1799,130.0,5.0,3.95
 Mercedes-Benz,New,Kochi,5,44965.0,Diesel,Automatic,First,19,2143,170.0,5.0,17.95
 Honda,Amaze,Kolkata,5,45044.0,Diesel,Manual,First,25,1498,98.6,5.0,3.7
 Maruti,Swift,Kochi,3,34204.0,Petrol,Manual,First,22,1197,81.8,5.0,5.43
-Hyundai,Santro,Kochi,11,80759.0,Petrol,Manual,Third,17,1086,,5.0,1.67
 Toyota,Fortuner,Coimbatore,7,91235.0,Diesel,Manual,First,11,2982,171.0,7.0,13.49
 Chevrolet,Beat,Pune,5,38800.0,Petrol,Manual,First,18,1199,76.8,5.0,2.85
 Skoda,Rapid,Chennai,6,83000.0,Diesel,Manual,First,21,1498,103.52,5.0,4.75
@@ -220,7 +215,6 @@ Mahindra,Verito,Hyderabad,6,107000.0,Diesel,Manual,First,21,1461,65.0,5.0,3.7
 Mercedes-Benz,New,Coimbatore,1,29161.0,Diesel,Automatic,First,19,2143,167.62,5.0,39.41
 Maruti,Wagon,Kolkata,6,32000.0,Petrol,Manual,First,22,998,67.04,5.0,2.65
 Nissan,Terrano,Coimbatore,4,46173.0,Diesel,Manual,Second,19,1461,108.5,5.0,8.92
-Maruti,Swift,Delhi,6,47000.0,Diesel,Manual,First,17,1248,,5.0,4.1
 Mini,Cooper,Kochi,2,26327.0,Petrol,Automatic,First,16,1998,189.08,4.0,35.67
 Ford,Figo,Bangalore,4,70436.0,Diesel,Manual,First,0,1498,99.0,5.0,3.6
 Tata,Indica,Jaipur,12,170000.0,Diesel,Manual,Second,17,1396,53.5,5.0,0.85
@@ -238,7 +232,6 @@ Hyundai,i20,Kochi,4,56847.0,Diesel,Manual,First,22,1396,88.73,5.0,7.2
 Toyota,Innova,Coimbatore,4,121374.0,Diesel,Manual,First,12,2494,100.6,7.0,14.3
 Maruti,Ertiga,Chennai,6,52000.0,Diesel,Manual,First,20,1248,88.76,7.0,6.9
 Toyota,Innova,Mumbai,5,118000.0,Diesel,Manual,First,12,2494,102.0,7.0,10.75
-Hyundai,Santro,Mumbai,12,72000.0,Petrol,Manual,Third,17,1086,,5.0,0.95
 Honda,City,Kochi,3,33915.0,Petrol,Manual,First,17,1497,117.3,5.0,8.09
 BMW,X1,Ahmedabad,5,82002.0,Diesel,Automatic,First,17,1995,184.0,5.0,18.5
 Hyundai,Grand,Mumbai,2,33000.0,Diesel,Manual,First,24,1120,70.0,5.0,4.75
@@ -255,7 +248,6 @@ Maruti,Swift,Coimbatore,2,27872.0,Petrol,Manual,Second,20,1197,81.8,5.0,5.95
 Hyundai,Grand,Mumbai,5,16514.0,Petrol,Manual,First,18,1197,82.0,5.0,3.75
 Maruti,Swift,Pune,7,120000.0,Diesel,Manual,First,22,1248,74.0,5.0,3.75
 Hyundai,Verna,Hyderabad,11,143275.0,Diesel,Manual,First,22,1582,126.2,5.0,2.6
-Hyundai,Santro,Hyderabad,13,99000.0,Petrol,Manual,First,0,1086,,5.0,1.75
 Hyundai,i20,Mumbai,9,52000.0,Petrol,Manual,First,17,1197,80.0,5.0,2.8
 Mercedes-Benz,GLE,Coimbatore,2,29819.0,Diesel,Automatic,First,11,2987,254.79,5.0,61.29
 Mercedes-Benz,New,Bangalore,5,57000.0,Diesel,Manual,Second,15,2148,170.0,5.0,18.0
@@ -299,8 +291,6 @@ Honda,City,Mumbai,2,15000.0,Petrol,Automatic,First,18,1497,117.3,5.0,12.69
 Tata,Indigo,Coimbatore,6,59138.0,Diesel,Manual,First,17,1405,70.0,5.0,2.58
 Audi,A6,Kochi,5,61726.0,Diesel,Automatic,First,17,1968,174.33,5.0,20.77
 Mercedes-Benz,GLA,Delhi,4,48000.0,Diesel,Automatic,First,17,2143,136.0,5.0,20.26
-Hyundai,Santro,Chennai,13,58000.0,Petrol,Manual,Second,0,1086,,5.0,1.5
-Maruti,Swift,Kolkata,8,60020.0,Diesel,Manual,First,17,1248,,5.0,2.5
 Maruti,Celerio,Hyderabad,5,77815.0,Petrol,Automatic,First,23,998,67.04,5.0,4.25
 Mercedes-Benz,GLE,Hyderabad,2,29000.0,Diesel,Automatic,First,17,2143,201.15,5.0,57.0
 Land,Rover,Delhi,2,44000.0,Diesel,Automatic,First,12,2179,187.7,5.0,44.0
@@ -374,7 +364,6 @@ Mercedes-Benz,E-Class,Jaipur,5,59364.0,Diesel,Automatic,First,14,2143,203.0,5.0,
 Mercedes-Benz,B,Kochi,5,41380.0,Petrol,Automatic,Second,14,1595,120.7,5.0,11.77
 Mercedes-Benz,E-Class,Bangalore,2,33900.0,Diesel,Automatic,First,15,2143,204.0,5.0,37.0
 Honda,City,Mumbai,3,28000.0,Petrol,Manual,First,17,1497,117.3,5.0,8.75
-Hyundai,Santro,Hyderabad,12,50958.0,Petrol,Manual,First,17,1086,,5.0,1.95
 Honda,City,Chennai,8,93982.0,Petrol,Manual,First,17,1497,118.0,5.0,3.75
 Hyundai,Verna,Pune,9,95000.0,Petrol,Manual,First,16,1599,103.2,5.0,2.5
 Jaguar,XE,Mumbai,2,9000.0,Petrol,Automatic,First,13,1999,246.74,5.0,34.5
@@ -412,11 +401,9 @@ Hyundai,Grand,Kochi,1,40322.0,Petrol,Manual,First,18,1197,81.86,5.0,5.5
 Honda,City,Mumbai,6,52576.0,Petrol,Manual,First,13,1493,100.0,5.0,4.35
 Volkswagen,Polo,Kolkata,9,55000.0,Petrol,Manual,First,16,1198,73.9,5.0,2.25
 Audi,A6,Mumbai,3,47000.0,Petrol,Automatic,First,15,1798,187.74,5.0,24.5
-Volkswagen,Jetta,Hyderabad,9,42021.0,Diesel,Manual,First,0,1968,,5.0,5.45
 Hyundai,Creta,Coimbatore,2,23163.0,Petrol,Manual,First,15,1591,121.3,5.0,12.03
 Mercedes-Benz,New,Mumbai,8,50000.0,Petrol,Automatic,Second,11,1796,186.0,5.0,8.5
 Mini,Cooper,Mumbai,5,11900.0,Petrol,Automatic,First,16,1998,189.08,4.0,28.5
-Hyundai,Santro,Pune,13,108000.0,Petrol,Manual,Second,17,1086,,5.0,1.2
 Toyota,Etios,Bangalore,6,37000.0,Diesel,Manual,First,23,1364,67.04,5.0,5.75
 Honda,Brio,Delhi,5,30000.0,Petrol,Manual,Second,19,1198,86.8,5.0,3.2
 Maruti,Baleno,Coimbatore,1,12831.0,Petrol,Automatic,First,21,1197,83.1,5.0,9.89
@@ -430,7 +417,6 @@ Maruti,Wagon,Ahmedabad,12,55100.0,Petrol,Manual,First,18,998,67.1,5.0,1.45
 Honda,City,Kolkata,11,40000.0,Petrol,Manual,First,17,1497,78.0,5.0,2.0
 Chevrolet,Enjoy,Kolkata,5,15000.0,Petrol,Manual,First,13,1399,98.79,8.0,3.75
 Mahindra,Bolero,Coimbatore,3,82756.0,Diesel,Manual,First,15,2523,62.1,7.0,7.7
-Hyundai,Santro,Coimbatore,7,50243.0,Petrol,Manual,First,0,1086,,5.0,3.35
 Hyundai,EON,Hyderabad,5,20600.0,Petrol,Manual,First,21,814,55.2,5.0,2.6
 Hyundai,Creta,Coimbatore,2,29952.0,Petrol,Automatic,First,13,1591,121.3,5.0,13.77
 Volkswagen,Vento,Mumbai,2,15000.0,Petrol,Manual,Second,16,1598,103.5,5.0,7.1
@@ -459,7 +445,6 @@ Hyundai,Santro,Bangalore,11,46000.0,Petrol,Manual,Second,17,1086,62.1,5.0,2.22
 Toyota,Innova,Hyderabad,7,162663.0,Diesel,Manual,First,12,2494,100.0,7.0,10.5
 Maruti,Ciaz,Coimbatore,2,25142.0,Diesel,Manual,First,28,1248,88.5,5.0,8.26
 Toyota,Fortuner,Delhi,6,69000.0,Diesel,Manual,First,12,2982,169.0,7.0,14.45
-Ford,Fiesta,Chennai,10,80524.0,Petrol,Manual,Second,15,1596,,5.0,2.5
 Mercedes-Benz,E-Class,Kochi,1,26405.0,Petrol,Automatic,First,12,1950,191.34,5.0,51.43
 Mercedes-Benz,New,Chennai,5,45000.0,Diesel,Manual,First,15,2148,170.0,5.0,23.0
 Skoda,Yeti,Kolkata,7,64284.0,Diesel,Manual,First,17,1968,108.49,5.0,5.5
@@ -560,7 +545,6 @@ Maruti,Swift,Chennai,6,49000.0,Petrol,Manual,First,18,1197,85.8,5.0,4.45
 Hyundai,Verna,Coimbatore,0,77240.0,Diesel,Automatic,First,22,1582,126.32,5.0,8.31
 Mahindra,Bolero,Jaipur,7,105000.0,Diesel,Manual,Second,15,2523,62.1,7.0,6.0
 Maruti,Swift,Chennai,5,35000.0,Diesel,Manual,First,22,1248,74.0,5.0,5.25
-Hyundai,Santro,Chennai,13,83072.0,Petrol,Manual,First,17,1086,,5.0,1.4
 Audi,A6,Hyderabad,7,170000.0,Diesel,Automatic,First,17,1968,174.33,5.0,12.3
 Volkswagen,Polo,Coimbatore,1,33558.0,Diesel,Manual,First,20,1498,88.0,5.0,8.12
 Mahindra,Bolero,Coimbatore,7,60271.0,Diesel,Manual,First,13,2523,63.0,7.0,6.12
@@ -629,7 +613,6 @@ Hyundai,Verna,Coimbatore,3,37882.0,Diesel,Manual,First,22,1582,126.3,5.0,9.19
 BMW,3,Bangalore,5,69330.0,Diesel,Automatic,First,16,1995,181.0,5.0,23.5
 Mercedes-Benz,E-Class,Delhi,8,61000.0,Petrol,Automatic,First,12,1796,185.0,5.0,12.5
 Chevrolet,Beat,Kolkata,9,35000.0,Petrol,Manual,Second,18,1199,79.4,5.0,1.5
-Tata,Indica,Jaipur,10,82000.0,Diesel,Manual,Second,13,1405,,5.0,0.75
 Mahindra,XUV500,Delhi,7,72450.0,Diesel,Manual,First,15,2179,140.0,7.0,8.1
 Maruti,Ciaz,Jaipur,2,36381.0,Diesel,Manual,First,28,1248,88.5,5.0,9.75
 Mercedes-Benz,New,Coimbatore,2,25559.0,Diesel,Automatic,First,19,2143,201.15,5.0,37.93
@@ -719,7 +702,6 @@ Maruti,Baleno,Coimbatore,1,25433.0,Diesel,Manual,First,27,1248,74.0,5.0,7.83
 Tata,Safari,Kochi,4,40611.0,Diesel,Manual,First,14,2179,138.1,7.0,8.15
 Hyundai,Accent,Bangalore,11,72000.0,Petrol,Manual,Second,13,1495,94.0,5.0,2.0
 Maruti,Swift,Hyderabad,3,54631.0,Diesel,Manual,First,25,1248,74.0,5.0,6.25
-Maruti,Swift,Bangalore,12,60000.0,Diesel,Manual,Second,17,1248,,5.0,3.4
 Tata,Nano,Coimbatore,3,24941.0,Petrol,Automatic,First,21,624,37.48,4.0,3.19
 Maruti,Ertiga,Ahmedabad,2,63939.0,Diesel,Manual,First,25,1248,88.5,7.0,7.75
 Maruti,Celerio,Delhi,5,35214.0,Petrol,Automatic,Second,23,998,67.04,5.0,3.2
@@ -728,7 +710,6 @@ Volkswagen,Vento,Kochi,7,121377.0,Petrol,Manual,First,15,1598,103.6,5.0,3.8
 Volkswagen,Jetta,Chennai,10,100970.0,Diesel,Automatic,First,15,1896,105.0,5.0,4.0
 Mini,Cooper,Hyderabad,5,60000.0,Diesel,Automatic,Second,20,1496,113.98,5.0,23.5
 Tata,Indica,Chennai,11,77650.0,Diesel,Manual,First,17,1396,53.5,5.0,1.15
-Hyundai,Santro,Hyderabad,12,71297.0,Petrol,Manual,First,17,1086,,5.0,2.2
 Honda,City,Bangalore,4,18955.0,Petrol,Automatic,First,18,1497,117.3,5.0,10.65
 Jaguar,XF,Coimbatore,3,47877.0,Diesel,Automatic,First,16,2179,187.7,5.0,35.68
 Mercedes-Benz,E-Class,Kochi,2,43368.0,Diesel,Automatic,First,15,2143,204.0,5.0,31.94
@@ -807,7 +788,6 @@ Volkswagen,Ameo,Mumbai,2,51000.0,Diesel,Manual,First,21,1498,108.62,5.0,6.45
 Volkswagen,Polo,Ahmedabad,6,55000.0,Diesel,Manual,First,22,1199,73.9,5.0,4.25
 Maruti,Alto,Hyderabad,5,58500.0,Petrol,Manual,First,22,796,47.3,5.0,2.75
 Hyundai,i20,Kochi,2,58620.0,Petrol,Manual,First,18,1197,81.83,5.0,7.14
-Toyota,Etios,Mumbai,7,29605.0,Petrol,Manual,First,18,1197,,5.0,2.44
 Hyundai,i20,Jaipur,7,71172.0,Petrol,Manual,Third,17,1197,80.0,5.0,3.5
 Hyundai,i20,Chennai,2,12000.0,Diesel,Manual,First,22,1396,88.73,5.0,7.3
 Maruti,Wagon,Kolkata,5,25000.0,Petrol,Manual,First,20,998,67.04,5.0,2.75
@@ -890,7 +870,6 @@ Hyundai,EON,Jaipur,2,23360.0,Petrol,Manual,First,21,814,55.2,5.0,3.75
 Maruti,Eeco,Coimbatore,7,56661.0,Petrol,Manual,First,15,1196,73.0,7.0,3.61
 Audi,Q5,Coimbatore,2,40318.0,Diesel,Automatic,First,14,1968,174.3,5.0,43.74
 Audi,Q3,Chennai,5,60000.0,Diesel,Automatic,First,15,1968,174.33,5.0,20.0
-Smart,Fortwo,Pune,11,103000.0,Diesel,Automatic,Second,0,799,,2.0,3.0
 Maruti,Swift,Hyderabad,9,130000.0,Diesel,Manual,First,19,1248,73.9,5.0,3.65
 Tata,Sumo,Mumbai,6,20000.0,Diesel,Manual,First,14,1978,83.1,10.0,5.25
 BMW,X5,Hyderabad,3,76000.0,Diesel,Automatic,First,15,2993,258.0,7.0,58.0
@@ -901,7 +880,6 @@ Maruti,Celerio,Bangalore,4,74000.0,Petrol,Manual,First,23,998,67.04,5.0,4.15
 Toyota,Fortuner,Delhi,8,75000.0,Diesel,Manual,First,11,2982,171.0,7.0,10.85
 Mitsubishi,Outlander,Delhi,9,76000.0,Petrol,Automatic,Second,11,2360,170.0,5.0,5.53
 Volkswagen,Jetta,Pune,5,64889.0,Diesel,Automatic,First,15,1896,105.0,5.0,11.5
-Porsche,Cayman,Hyderabad,9,10000.0,Petrol,Manual,First,9,3436,,2.0,40.0
 Hyundai,Creta,Kolkata,4,43000.0,Diesel,Manual,First,19,1582,126.2,5.0,9.25
 Skoda,Fabia,Pune,8,47490.0,Petrol,Manual,First,17,1198,75.0,5.0,2.29
 Ford,EcoSport,Chennai,4,80000.0,Diesel,Manual,First,22,1498,98.59,5.0,7.0
@@ -909,7 +887,6 @@ Maruti,Zen,Bangalore,12,60000.0,Petrol,Manual,Second,18,1061,64.0,5.0,1.65
 Maruti,Ciaz,Ahmedabad,2,6006.0,Petrol,Manual,First,20,1373,91.1,5.0,8.25
 Mercedes-Benz,New,Kochi,8,71703.0,Petrol,Automatic,First,14,1991,181.03,5.0,9.14
 Honda,Amaze,Hyderabad,3,33000.0,Petrol,Manual,First,17,1198,86.7,5.0,6.5
-Toyota,Etios,Kolkata,7,60000.0,Diesel,Manual,First,23,1364,,5.0,2.95
 Renault,Duster,Jaipur,4,91000.0,Diesel,Manual,First,19,1461,83.8,5.0,5.75
 Volkswagen,Polo,Kolkata,8,43000.0,Petrol,Manual,Second,16,1198,73.9,5.0,2.1
 Hyundai,Creta,Coimbatore,2,63770.0,Diesel,Manual,First,19,1582,126.2,5.0,13.55
@@ -1040,7 +1017,6 @@ Hyundai,i10,Kolkata,10,43002.0,Petrol,Manual,First,20,1197,78.9,5.0,1.92
 Toyota,Innova,Bangalore,3,108000.0,Diesel,Automatic,First,11,2755,171.5,7.0,20.5
 Skoda,Laura,Jaipur,9,82407.0,Diesel,Manual,First,17,1896,106.0,5.0,4.25
 Hyundai,Grand,Kolkata,6,29000.0,Petrol,Manual,First,18,1197,82.0,5.0,3.2
-Toyota,Etios,Pune,7,170000.0,Diesel,Manual,Second,23,1364,,5.0,2.6
 Maruti,Swift,Kolkata,5,45000.0,Diesel,Manual,First,23,1248,74.0,5.0,3.85
 Hyundai,i20,Kochi,9,93401.0,Diesel,Manual,First,23,1396,90.0,5.0,3.48
 Ford,Figo,Hyderabad,2,95802.0,Diesel,Manual,Second,25,1498,99.0,5.0,4.55
@@ -1114,7 +1090,6 @@ Hyundai,Grand,Delhi,2,8471.0,Petrol,Manual,First,18,1197,81.86,5.0,5.0
 Toyota,Innova,Hyderabad,3,69000.0,Diesel,Automatic,First,11,2755,171.5,7.0,19.75
 Renault,Duster,Coimbatore,2,30090.0,Diesel,Automatic,First,19,1461,108.45,5.0,11.44
 Tata,Indica,Chennai,8,120000.0,Diesel,Manual,First,18,1248,75.0,5.0,1.75
-Maruti,Swift,Bangalore,6,23000.0,Diesel,Manual,First,17,1248,,5.0,5.6
 Mercedes-Benz,E-Class,Kochi,3,35939.0,Petrol,Manual,First,12,1796,185.0,5.0,30.42
 Mahindra,XUV500,Coimbatore,6,116694.0,Diesel,Manual,First,15,2179,140.0,7.0,9.57
 Mahindra,Bolero,Mumbai,3,40448.0,Diesel,Manual,First,15,2523,62.1,7.0,3.5
@@ -1124,7 +1099,6 @@ Honda,Amaze,Kochi,3,51672.0,Petrol,Manual,First,19,1199,88.76,5.0,5.68
 Skoda,Superb,Mumbai,4,56073.0,Petrol,Automatic,First,13,1798,157.75,5.0,13.25
 Jaguar,XF,Bangalore,8,65000.0,Diesel,Automatic,First,14,2993,270.9,5.0,16.0
 Maruti,Wagon,Chennai,6,79000.0,Petrol,Manual,First,18,998,67.1,5.0,3.0
-Hyundai,Santro,Kolkata,12,43206.0,Petrol,Manual,First,17,1086,,5.0,0.99
 Toyota,Corolla,Mumbai,9,70200.0,Petrol,Automatic,First,14,1798,138.1,5.0,5.0
 Maruti,Swift,Delhi,3,42000.0,Petrol,Manual,First,16,1197,85.0,5.0,4.75
 Volkswagen,Polo,Bangalore,5,62000.0,Petrol,Manual,First,16,1198,74.0,5.0,5.35
@@ -1238,7 +1212,6 @@ Maruti,Alto,Hyderabad,7,46004.0,Petrol,Manual,First,20,998,67.1,5.0,2.4
 Tata,Indigo,Chennai,8,124000.0,Diesel,Manual,First,23,1396,69.0,5.0,2.3
 Audi,A4,Kochi,5,77395.0,Diesel,Automatic,First,17,1968,174.33,5.0,14.35
 Honda,City,Kochi,1,22974.0,Petrol,Automatic,First,18,1497,117.3,5.0,11.97
-Hyundai,Santro,Jaipur,10,89000.0,Petrol,Manual,Second,0,999,,5.0,1.6
 Toyota,Fortuner,Ahmedabad,4,65012.0,Diesel,Manual,First,14,2755,174.5,7.0,18.9
 Hyundai,Grand,Ahmedabad,2,17125.0,Petrol,Manual,First,18,1197,82.0,5.0,5.4
 Maruti,Eeco,Hyderabad,4,90413.0,Petrol,Manual,First,15,1196,73.0,7.0,2.95
@@ -1284,7 +1257,6 @@ BMW,5,Mumbai,8,89000.0,Diesel,Automatic,First,16,1995,218.0,5.0,16.57
 Honda,City,Bangalore,7,72000.0,Petrol,Manual,First,17,1497,118.0,5.0,5.75
 Audi,A4,Delhi,6,36000.0,Diesel,Automatic,Second,16,1968,147.51,5.0,14.0
 Fiat,Linea,Jaipur,6,86000.0,Diesel,Manual,Second,19,1248,75.0,5.0,2.5
-Fiat,Petra,Pune,14,120000.0,Petrol,Manual,Second,15,1242,,5.0,0.85
 BMW,3,Kochi,6,37613.0,Diesel,Automatic,First,22,1995,190.0,5.0,13.95
 Ford,Fiesta,Chennai,12,100000.0,Petrol,Manual,First,16,1388,68.0,5.0,1.6
 Tata,Nano,Coimbatore,3,5240.0,Petrol,Automatic,First,21,624,37.48,4.0,3.6
@@ -1307,7 +1279,6 @@ Maruti,Ciaz,Jaipur,4,40500.0,Diesel,Manual,First,28,1248,88.5,5.0,7.1
 Maruti,Swift,Pune,3,23000.0,Diesel,Manual,First,26,1248,74.0,5.0,7.05
 Honda,CR-V,Pune,4,63050.0,Petrol,Automatic,First,11,2354,158.8,5.0,17.5
 Toyota,Corolla,Mumbai,11,78000.0,Petrol,Automatic,Second,14,1794,138.1,5.0,3.41
-Maruti,Baleno,Pune,14,70000.0,Petrol,Manual,First,0,1590,,5.0,1.3
 Honda,City,Coimbatore,7,66245.0,Petrol,Manual,First,17,1497,118.0,5.0,5.68
 Mahindra,Scorpio,Bangalore,12,74112.0,Diesel,Manual,First,12,2179,120.0,9.0,4.1
 Skoda,Laura,Delhi,8,87670.0,Petrol,Manual,First,13,1798,157.8,5.0,4.0
@@ -1348,7 +1319,6 @@ Hyundai,Getz,Jaipur,10,97359.0,Diesel,Manual,Second,17,1493,110.0,5.0,1.8
 Maruti,Ritz,Mumbai,3,62000.0,Petrol,Manual,First,18,1197,85.8,5.0,3.2
 BMW,5,Kochi,0,18373.0,Diesel,Automatic,First,22,1995,187.74,5.0,45.86
 Volkswagen,Polo,Hyderabad,3,60453.0,Petrol,Manual,First,16,1198,74.0,5.0,5.1
-Maruti,Swift,Pune,6,37000.0,Diesel,Manual,First,17,1248,,5.0,4.85
 Ford,Figo,Mumbai,9,69009.0,Petrol,Manual,Second,15,1196,70.0,5.0,2.4
 BMW,3,Hyderabad,6,30000.0,Diesel,Automatic,First,18,1995,184.0,5.0,22.0
 Hyundai,Verna,Delhi,7,70707.0,Diesel,Manual,First,22,1582,126.32,5.0,4.28
@@ -1379,7 +1349,6 @@ Maruti,Swift,Delhi,4,76128.0,Diesel,Manual,First,26,1248,74.0,5.0,5.5
 Fiat,Linea,Kolkata,9,39852.0,Petrol,Manual,First,16,1368,90.0,5.0,1.59
 Hyundai,i20,Mumbai,2,18673.0,Petrol,Manual,First,18,1197,81.83,5.0,6.22
 Hyundai,EON,Kolkata,3,11583.0,Petrol,Manual,First,21,814,55.2,5.0,2.75
-Hyundai,Santro,Chennai,12,82000.0,Petrol,Manual,Second,0,1086,,5.0,1.35
 Mercedes-Benz,GLA,Pune,2,50000.0,Diesel,Automatic,First,17,2143,136.0,5.0,25.0
 Maruti,Celerio,Delhi,5,77000.0,Petrol,Manual,First,23,998,67.04,5.0,2.8
 Chevrolet,Beat,Mumbai,5,54890.0,Petrol,Manual,Second,17,1199,76.8,5.0,2.45
@@ -1513,7 +1482,6 @@ Volkswagen,Polo,Kolkata,8,50000.0,Petrol,Manual,First,16,1198,73.9,5.0,2.35
 Mahindra,XUV500,Coimbatore,2,64961.0,Diesel,Manual,First,16,2179,140.0,7.0,16.13
 Volkswagen,Polo,Coimbatore,5,72465.0,Petrol,Manual,First,16,1198,74.0,5.0,5.9
 Maruti,Ritz,Hyderabad,7,68776.0,Petrol,Manual,First,21,1197,85.8,5.0,3.9
-Chevrolet,Optra,Pune,14,150000.0,Petrol,Manual,First,14,1598,,5.0,1.5
 Toyota,Innova,Delhi,7,68000.0,Diesel,Manual,First,12,2494,102.0,7.0,6.95
 Honda,City,Delhi,4,33000.0,Diesel,Manual,First,26,1498,98.6,5.0,7.0
 Volkswagen,Ameo,Coimbatore,2,22389.0,Petrol,Manual,First,17,1198,73.75,5.0,7.23
@@ -1535,7 +1503,6 @@ Volkswagen,Tiguan,Jaipur,2,50510.0,Diesel,Automatic,First,17,1968,141.0,5.0,24.9
 BMW,X1,Pune,8,102000.0,Diesel,Automatic,First,15,1995,177.0,5.0,13.75
 Hyundai,Grand,Kolkata,5,42277.0,Diesel,Manual,First,24,1186,73.97,5.0,3.85
 Mercedes-Benz,E-Class,Mumbai,5,46000.0,Diesel,Automatic,First,13,2143,201.1,5.0,23.25
-Mahindra,Bolero,Chennai,7,35000.0,Diesel,Manual,First,13,2523,,7.0,7.0
 Hyundai,Grand,Bangalore,4,50000.0,Petrol,Manual,First,18,1197,82.0,5.0,5.75
 Hyundai,i10,Mumbai,11,62000.0,Petrol,Manual,Second,20,1197,78.9,5.0,1.65
 Volkswagen,Jetta,Mumbai,7,78000.0,Diesel,Manual,First,19,1968,138.1,5.0,6.5
@@ -1605,7 +1572,6 @@ Maruti,Ritz,Hyderabad,9,79894.0,Diesel,Manual,First,21,1248,73.9,5.0,3.4
 Volkswagen,Polo,Coimbatore,8,44748.0,Petrol,Manual,Second,16,1198,73.9,5.0,4.89
 Nissan,Terrano,Mumbai,6,31000.0,Petrol,Manual,First,13,1598,102.5,5.0,4.95
 Maruti,A-Star,Coimbatore,6,60587.0,Petrol,Automatic,Second,16,998,66.1,5.0,3.49
-Toyota,Etios,Pune,8,32000.0,Diesel,Manual,First,23,1364,,5.0,3.85
 Honda,City,Pune,5,43772.0,Petrol,Manual,First,17,1497,118.0,5.0,6.35
 Hyundai,Grand,Coimbatore,2,23576.0,Petrol,Automatic,First,18,1197,82.0,5.0,7.08
 Jaguar,XE,Hyderabad,2,4000.0,Diesel,Automatic,First,13,1999,177.0,5.0,38.0
@@ -1628,7 +1594,6 @@ Mercedes-Benz,E-Class,Mumbai,5,52000.0,Diesel,Automatic,First,13,2143,204.0,5.0,
 Renault,Duster,Pune,6,20000.0,Petrol,Manual,First,13,1598,102.57,5.0,6.0
 Hyundai,EON,Hyderabad,2,31829.0,Petrol,Manual,First,21,814,55.2,5.0,3.65
 Maruti,Swift,Coimbatore,3,18094.0,Petrol,Manual,Second,18,1197,85.8,5.0,6.26
-Nissan,Micra,Jaipur,8,80000.0,Diesel,Manual,Second,19,1461,,5.0,2.1
 Audi,Q5,Mumbai,4,11964.0,Diesel,Automatic,First,13,2967,241.4,5.0,32.95
 Hyundai,i20,Coimbatore,1,22684.0,Petrol,Manual,First,18,1197,81.83,5.0,7.8
 Honda,Brio,Bangalore,5,43521.0,Petrol,Manual,First,19,1198,86.8,5.0,4.25
@@ -1810,7 +1775,6 @@ Hyundai,i10,Jaipur,5,60000.0,Petrol,Manual,First,20,1197,78.9,5.0,3.25
 Renault,Duster,Coimbatore,4,65668.0,Diesel,Manual,First,19,1461,83.8,5.0,5.53
 BMW,3,Ahmedabad,8,100000.0,Diesel,Automatic,Second,22,1995,190.0,5.0,10.9
 Hyundai,Grand,Kolkata,1,1800.0,Petrol,Manual,First,18,1197,82.0,5.0,5.1
-Hyundai,Santro,Hyderabad,12,96000.0,Petrol,Manual,Second,0,999,,5.0,2.2
 Chevrolet,Spark,Pune,10,44200.0,Petrol,Manual,Second,18,995,62.0,5.0,1.6
 Honda,City,Ahmedabad,1,14000.0,Petrol,Manual,First,17,1497,117.3,5.0,11.25
 Volkswagen,Vento,Chennai,6,170000.0,Diesel,Manual,First,20,1598,103.6,5.0,5.9
@@ -2000,7 +1964,6 @@ Mahindra,Scorpio,Jaipur,6,72000.0,Diesel,Manual,First,10,2179,120.0,8.0,6.0
 Mahindra,Scorpio,Mumbai,5,83128.0,Diesel,Manual,First,15,2179,120.0,7.0,7.45
 Maruti,Alto,Chennai,8,75000.0,Petrol,Manual,First,19,796,46.3,5.0,2.1
 Renault,Duster,Ahmedabad,6,58000.0,Diesel,Manual,Second,19,1461,108.45,5.0,5.2
-Mahindra,Jeep,Hyderabad,10,26000.0,Diesel,Manual,First,0,2498,,6.0,6.99
 Maruti,Ignis,Mumbai,2,1000.0,Petrol,Manual,First,20,1197,81.8,5.0,6.36
 Toyota,Innova,Kochi,4,59751.0,Diesel,Manual,First,12,2494,100.6,7.0,11.62
 BMW,7,Kochi,4,29966.0,Diesel,Automatic,Second,16,2993,261.49,5.0,43.6
@@ -2073,7 +2036,6 @@ Toyota,Innova,Pune,12,170000.0,Diesel,Manual,Second,12,2494,102.0,8.0,5.7
 Maruti,Baleno,Mumbai,3,12573.0,Petrol,Manual,First,21,1197,83.1,5.0,5.8
 Audi,Q7,Hyderabad,7,88000.0,Diesel,Automatic,First,12,2967,241.4,7.0,36.5
 Hyundai,Santa,Delhi,7,86000.0,Diesel,Automatic,Second,13,2199,194.3,7.0,9.5
-Hyundai,Santro,Coimbatore,7,51019.0,Petrol,Manual,First,0,999,,5.0,3.48
 Honda,City,Mumbai,6,45000.0,Petrol,Manual,First,17,1497,118.0,5.0,4.55
 Hyundai,i20,Jaipur,7,51000.0,Diesel,Manual,First,21,1396,90.0,5.0,3.9
 Mahindra,Bolero,Pune,12,92000.0,Diesel,Manual,First,13,2523,63.0,7.0,2.7
@@ -2107,7 +2069,6 @@ Honda,City,Mumbai,2,17000.0,Petrol,Automatic,First,18,1497,117.3,5.0,11.6
 Jaguar,XF,Kochi,3,13418.0,Diesel,Automatic,First,16,2179,187.7,5.0,33.63
 Ford,Fiesta,Pune,11,117080.0,Diesel,Manual,Third,17,1399,68.0,5.0,2.25
 BMW,5,Mumbai,9,74000.0,Petrol,Automatic,First,10,2497,150.0,5.0,12.95
-Maruti,Swift,Hyderabad,9,86514.0,Diesel,Manual,First,17,1248,,5.0,4.25
 Audi,A6,Coimbatore,5,66882.0,Diesel,Automatic,First,17,1968,174.33,5.0,25.02
 Honda,Brio,Kochi,5,41460.0,Petrol,Manual,First,18,1198,86.8,5.0,3.95
 Honda,City,Mumbai,8,57000.0,Petrol,Automatic,First,16,1497,118.0,5.0,4.4
@@ -2204,7 +2165,6 @@ BMW,5,Mumbai,6,78000.0,Diesel,Automatic,First,18,1995,177.0,5.0,19.5
 Hyundai,Santa,Bangalore,4,59000.0,Diesel,Automatic,First,13,2199,194.3,7.0,21.0
 BMW,5,Ahmedabad,7,95000.0,Diesel,Automatic,Second,22,1995,190.0,5.0,17.5
 Ford,Fiesta,Hyderabad,9,84000.0,Diesel,Manual,Second,17,1399,68.0,5.0,2.41
-Toyota,Etios,Bangalore,7,58253.0,Diesel,Manual,Second,23,1364,,5.0,4.45
 Land,Rover,Coimbatore,5,64557.0,Diesel,Automatic,Second,12,2179,187.7,5.0,29.93
 Maruti,Alto,Kolkata,10,68078.0,Petrol,Manual,First,19,796,46.3,5.0,1.02
 Toyota,Fortuner,Jaipur,10,149706.0,Diesel,Manual,First,11,2982,171.0,7.0,11.0
@@ -2244,7 +2204,6 @@ Mahindra,Scorpio,Jaipur,9,105000.0,Diesel,Manual,Second,12,2179,120.0,8.0,5.21
 Hyundai,Creta,Coimbatore,2,36458.0,Petrol,Manual,First,15,1591,121.3,5.0,12.34
 Honda,City,Chennai,13,109000.0,Petrol,Manual,First,16,1497,100.0,5.0,1.5
 BMW,X1,Delhi,4,49000.0,Diesel,Automatic,First,17,1995,184.0,5.0,22.99
-Porsche,Cayman,Mumbai,8,8000.0,Petrol,Automatic,First,9,3436,,2.0,43.0
 Land,Rover,Hyderabad,9,45000.0,Diesel,Automatic,First,14,2993,241.4,6.0,40.0
 Maruti,Alto,Chennai,11,68000.0,Petrol,Manual,Third,19,796,46.3,5.0,1.2
 Hyundai,i10,Mumbai,8,54000.0,Petrol,Automatic,First,19,1197,80.0,5.0,2.9
@@ -2277,7 +2236,6 @@ Honda,Amaze,Pune,5,48000.0,Diesel,Manual,Second,25,1498,98.6,5.0,4.5
 Hyundai,Verna,Jaipur,5,97000.0,Diesel,Automatic,First,22,1582,126.32,5.0,8.0
 Mercedes-Benz,GLA,Mumbai,1,10000.0,Diesel,Automatic,First,17,2143,136.0,5.0,28.9
 Volkswagen,Polo,Coimbatore,4,56900.0,Diesel,Manual,First,20,1498,88.8,5.0,4.1
-Hyundai,Santro,Hyderabad,13,74483.0,Petrol,Automatic,First,0,999,,5.0,2.3
 Maruti,Baleno,Kochi,2,36152.0,Petrol,Automatic,First,21,1197,83.1,5.0,7.22
 Maruti,Swift,Hyderabad,5,85512.0,Diesel,Manual,First,22,1248,74.0,5.0,5.8
 Mahindra,Xylo,Chennai,6,170000.0,Diesel,Manual,Second,14,2489,95.0,8.0,3.5
@@ -2303,7 +2261,6 @@ Toyota,Corolla,Delhi,13,79000.0,Petrol,Manual,Second,13,1794,125.0,5.0,1.67
 Toyota,Corolla,Kolkata,5,27000.0,Petrol,Manual,First,14,1798,138.03,5.0,7.95
 Maruti,Grand,Kochi,1,28786.0,Petrol,Manual,First,10,2393,163.5,5.0,9.74
 Mahindra,XUV500,Chennai,8,143354.0,Diesel,Manual,Second,16,1997,140.0,7.0,6.0
-Maruti,Estilo,Chennai,11,56000.0,Petrol,Manual,Second,19,1061,,5.0,1.5
 Mini,Cooper,Mumbai,6,21000.0,Petrol,Automatic,First,17,1998,189.08,4.0,21.5
 Maruti,Ritz,Jaipur,10,73000.0,Diesel,Manual,Second,21,1248,73.9,5.0,2.35
 Volkswagen,Polo,Delhi,7,74000.0,Diesel,Manual,Second,22,1199,73.9,5.0,2.65
@@ -2324,7 +2281,6 @@ Mahindra,XUV500,Coimbatore,1,24500.0,Diesel,Automatic,First,16,2179,140.0,7.0,16
 Skoda,Superb,Kochi,3,56674.0,Petrol,Automatic,First,13,1798,157.75,5.0,14.05
 Maruti,Ciaz,Kochi,3,51950.0,Petrol,Manual,First,20,1373,91.1,5.0,6.75
 Hyundai,Creta,Kolkata,3,51000.0,Diesel,Manual,First,19,1582,126.2,5.0,9.2
-Toyota,Etios,Chennai,7,150000.0,Diesel,Manual,Third,23,1364,,5.0,3.0
 Honda,City,Chennai,11,114750.0,Petrol,Manual,Second,17,1497,118.0,5.0,2.75
 Ford,Endeavour,Hyderabad,3,107890.0,Diesel,Manual,First,13,2198,157.7,7.0,20.5
 Hyundai,i20,Pune,7,64000.0,Diesel,Manual,First,21,1396,90.0,5.0,4.25
@@ -2370,7 +2326,6 @@ Hyundai,i20,Kochi,3,61823.0,Petrol,Manual,First,18,1197,81.83,5.0,6.14
 Maruti,Dzire,Hyderabad,8,110000.0,Diesel,Manual,First,28,1248,73.75,5.0,4.0
 Honda,City,Kolkata,9,38446.0,Petrol,Manual,First,17,1497,118.0,5.0,2.59
 Maruti,Baleno,Delhi,2,33000.0,Diesel,Manual,First,27,1248,74.0,5.0,6.96
-Toyota,Etios,Kolkata,8,42118.0,Petrol,Manual,First,18,1197,,5.0,2.19
 Hyundai,EON,Jaipur,3,70000.0,Petrol,Manual,First,21,814,55.2,5.0,3.0
 Volkswagen,Polo,Delhi,7,68038.0,Diesel,Manual,First,20,1498,88.0,5.0,3.6
 Chevrolet,Beat,Coimbatore,5,55012.0,Diesel,Manual,Second,25,936,57.6,5.0,3.7
@@ -2379,7 +2334,6 @@ Mercedes-Benz,GLC,Mumbai,2,25000.0,Diesel,Automatic,First,17,2143,170.0,5.0,45.0
 Maruti,Alto,Coimbatore,8,46808.0,Petrol,Manual,Second,24,998,67.1,5.0,3.19
 Hyundai,Xcent,Coimbatore,4,65743.0,Petrol,Manual,First,20,1197,81.86,5.0,6.2
 Hyundai,i10,Coimbatore,6,64466.0,Petrol,Manual,First,19,1086,68.05,5.0,3.96
-Tata,Indica,Kolkata,10,75648.0,Diesel,Manual,First,13,1405,,5.0,0.82
 Maruti,Swift,Jaipur,3,80000.0,Diesel,Manual,First,23,1248,74.0,5.0,4.5
 Hyundai,Xcent,Mumbai,2,69000.0,Diesel,Manual,First,25,1186,73.97,5.0,3.55
 Nissan,Sunny,Chennai,5,79200.0,Diesel,Manual,First,22,1461,84.8,5.0,5.5
@@ -2425,11 +2379,9 @@ Mercedes-Benz,New,Bangalore,2,20149.0,Diesel,Automatic,First,19,2143,167.62,5.0,
 Hyundai,i10,Jaipur,8,70000.0,Petrol,Manual,First,19,1086,68.05,5.0,2.15
 Skoda,Superb,Mumbai,9,62004.0,Petrol,Automatic,Second,14,1798,177.46,5.0,3.75
 Volkswagen,Vento,Mumbai,3,25500.0,Diesel,Automatic,First,21,1498,108.5,5.0,8.95
-Maruti,Swift,Hyderabad,6,68800.0,Diesel,Manual,First,17,1248,,5.0,5.0
 Honda,Civic,Pune,9,61700.0,Petrol,Manual,First,14,1799,130.2,5.0,2.95
 BMW,3,Coimbatore,9,59660.0,Petrol,Automatic,First,12,1995,154.0,5.0,10.49
 Hyundai,Santro,Hyderabad,12,69775.0,Petrol,Manual,Second,17,1086,62.1,5.0,1.85
-Maruti,Swift,Hyderabad,3,51787.0,Diesel,Manual,First,17,1248,,5.0,6.45
 Honda,Accord,Jaipur,10,88000.0,Petrol,Automatic,First,11,2354,142.0,5.0,5.25
 Maruti,Ertiga,Kolkata,5,47052.0,Diesel,Manual,First,20,1248,88.76,7.0,5.99
 Ford,Fiesta,Kochi,4,69749.0,Diesel,Manual,First,18,1388,67.0,5.0,3.82
@@ -2501,7 +2453,6 @@ Chevrolet,Tavera,Hyderabad,4,120000.0,Diesel,Manual,First,14,2499,80.0,10.0,5.5
 Mahindra,Ssangyong,Kochi,5,91586.0,Diesel,Automatic,Second,11,2696,184.0,7.0,9.47
 Hyundai,i10,Mumbai,11,38235.0,Petrol,Manual,First,20,1197,78.9,5.0,1.95
 Hyundai,i10,Kolkata,8,37000.0,Petrol,Manual,First,20,1197,78.9,5.0,2.2
-Hyundai,Santro,Mumbai,13,50888.0,Petrol,Manual,First,17,1086,,5.0,1.15
 Honda,Amaze,Bangalore,6,44000.0,Petrol,Manual,Second,18,1198,86.7,5.0,4.35
 Maruti,Celerio,Pune,3,54000.0,Petrol,Automatic,First,23,998,67.04,5.0,4.5
 Hyundai,Grand,Chennai,6,90000.0,Petrol,Manual,First,18,1197,82.0,5.0,3.55
@@ -2519,7 +2470,6 @@ Audi,Q7,Bangalore,4,21000.0,Diesel,Automatic,Second,12,2967,241.4,7.0,52.5
 Hyundai,i20,Delhi,3,38000.0,Petrol,Manual,First,18,1197,81.83,5.0,5.95
 Tata,Tiago,Coimbatore,0,15379.0,Petrol,Automatic,First,23,1199,83.83,5.0,6.97
 Hyundai,i10,Hyderabad,8,60000.0,Petrol,Manual,First,20,1197,78.9,5.0,3.2
-Hyundai,Santro,Pune,12,70000.0,Petrol,Manual,First,0,1086,,5.0,1.12
 Renault,Duster,Bangalore,6,75371.0,Diesel,Manual,First,20,1461,83.8,5.0,6.69
 Tata,Xenon,Bangalore,5,60000.0,Diesel,Manual,Second,13,2179,138.03,5.0,5.9
 Hyundai,i20,Kolkata,10,30675.0,Petrol,Manual,First,18,1197,80.0,5.0,2.25
@@ -2556,11 +2506,9 @@ Hyundai,Creta,Coimbatore,3,11554.0,Diesel,Manual,First,19,1582,126.2,5.0,14.25
 Volkswagen,Vento,Hyderabad,5,90000.0,Diesel,Manual,First,20,1498,103.2,5.0,6.5
 Honda,City,Kolkata,5,48104.0,Petrol,Manual,First,17,1497,117.3,5.0,5.49
 Hyundai,Getz,Pune,14,91000.0,Petrol,Manual,Third,16,1341,83.0,5.0,0.8
-Hyundai,Santro,Kochi,12,58815.0,Petrol,Manual,First,17,1086,,5.0,1.99
 Hyundai,Grand,Coimbatore,4,33931.0,Petrol,Automatic,Second,18,1197,82.0,5.0,5.91
 Hyundai,Grand,Coimbatore,0,13916.0,Petrol,Manual,First,18,1197,81.86,5.0,6.44
 Hyundai,Grand,Jaipur,4,14000.0,Petrol,Manual,First,18,1197,82.0,5.0,4.6
-Maruti,Swift,Pune,12,121000.0,Diesel,Manual,Second,17,1248,,5.0,2.35
 Hyundai,i20,Coimbatore,3,17560.0,Petrol,Manual,First,18,1197,81.83,5.0,7.21
 Renault,Duster,Pune,3,60000.0,Diesel,Manual,First,19,1461,83.8,5.0,8.0
 Maruti,Swift,Hyderabad,10,88096.0,Diesel,Manual,Second,19,1248,73.9,5.0,3.5
@@ -2805,7 +2753,6 @@ Hyundai,i20,Mumbai,4,39000.0,Petrol,Manual,First,18,1197,81.83,5.0,5.5
 Volkswagen,Vento,Hyderabad,7,110000.0,Diesel,Manual,Second,20,1598,103.6,5.0,3.65
 Ford,Endeavour,Kochi,8,68022.0,Diesel,Manual,First,13,2499,141.0,7.0,5.86
 Ford,EcoSport,Coimbatore,1,27852.0,Petrol,Automatic,First,14,1497,121.36,5.0,10.44
-Maruti,Swift,Bangalore,6,58291.0,Diesel,Manual,First,17,1248,,5.0,5.0
 Hyundai,i20,Coimbatore,8,68439.0,Diesel,Manual,First,23,1396,90.0,5.0,3.37
 Toyota,Innova,Delhi,8,150000.0,Diesel,Manual,First,12,2494,100.6,8.0,6.95
 Tata,Nexon,Mumbai,1,14000.0,Diesel,Manual,First,21,1497,108.5,5.0,9.9
@@ -2944,7 +2891,6 @@ Ford,Endeavour,Coimbatore,2,61108.0,Diesel,Automatic,First,10,3198,197.0,7.0,28.
 Skoda,Superb,Kochi,3,61648.0,Petrol,Automatic,First,13,1798,157.75,5.0,14.23
 BMW,3,Mumbai,7,37000.0,Diesel,Automatic,Third,22,1995,190.0,5.0,15.0
 Maruti,Ritz,Jaipur,6,65000.0,Diesel,Manual,First,23,1248,73.94,5.0,3.75
-Hyundai,Santro,Jaipur,14,120000.0,Petrol,Manual,First,0,1086,,5.0,1.15
 Toyota,Fortuner,Jaipur,8,148009.0,Diesel,Manual,Second,11,2982,171.0,7.0,12.75
 Maruti,Swift,Mumbai,10,53001.0,Petrol,Manual,First,16,1298,88.2,5.0,1.95
 Tata,Tigor,Mumbai,1,22345.0,Petrol,Manual,First,20,1199,84.0,5.0,4.95
@@ -2972,7 +2918,6 @@ Renault,Pulse,Hyderabad,6,71491.0,Diesel,Manual,First,23,1461,63.12,5.0,4.95
 Volkswagen,Polo,Bangalore,4,46354.0,Petrol,Manual,Second,16,1198,74.0,5.0,5.49
 BMW,3,Delhi,0,87000.0,Diesel,Automatic,First,22,1995,190.0,5.0,6.67
 Skoda,Rapid,Ahmedabad,4,20765.0,Petrol,Manual,First,15,1598,103.52,5.0,6.25
-Hyundai,Santro,Ahmedabad,14,58000.0,Petrol,Manual,Second,0,999,,5.0,1.51
 Audi,Q7,Coimbatore,5,51076.0,Diesel,Automatic,First,12,2967,241.4,7.0,34.88
 Maruti,Ciaz,Jaipur,3,84085.0,Diesel,Manual,First,26,1248,88.5,5.0,6.9
 Honda,City,Kolkata,5,55000.0,Diesel,Manual,First,25,1498,98.6,5.0,5.99
@@ -3014,7 +2959,6 @@ Honda,City,Delhi,3,17000.0,Petrol,Manual,Second,17,1497,117.3,5.0,8.25
 Nissan,Micra,Kolkata,8,39002.0,Diesel,Manual,First,23,1461,63.1,5.0,2.85
 Ford,Figo,Pune,9,129986.0,Diesel,Manual,Second,20,1399,68.0,5.0,3.2
 Nissan,Micra,Kolkata,6,45000.0,Petrol,Manual,First,18,1198,75.0,5.0,1.75
-Maruti,Swift,Kolkata,6,41300.0,Diesel,Manual,First,17,1248,,5.0,3.38
 Honda,Accord,Ahmedabad,10,82002.0,Petrol,Manual,Second,12,2354,177.6,5.0,5.75
 Skoda,Superb,Mumbai,9,67000.0,Petrol,Automatic,First,13,1798,157.75,5.0,4.7
 Maruti,Omni,Hyderabad,2,21260.0,Petrol,Manual,First,14,796,35.0,5.0,2.9
@@ -3149,7 +3093,6 @@ Maruti,Swift,Chennai,7,63000.0,Diesel,Manual,First,22,1248,74.0,5.0,4.5
 Jeep,Compass,Kolkata,2,15050.0,Diesel,Manual,First,16,1956,170.0,5.0,17.5
 Maruti,Swift,Mumbai,3,29401.0,Petrol,Manual,First,20,1197,81.8,5.0,4.31
 Honda,Jazz,Kochi,3,25238.0,Petrol,Manual,First,18,1199,88.7,5.0,6.2
-Toyota,Etios,Chennai,8,79000.0,Diesel,Manual,First,23,1364,,5.0,4.67
 Volkswagen,Polo,Kochi,8,58752.0,Petrol,Manual,First,16,1198,73.9,5.0,3.32
 Honda,Civic,Delhi,8,62000.0,Petrol,Automatic,First,12,1799,130.0,5.0,3.75
 Toyota,Etios,Bangalore,6,132000.0,Petrol,Manual,First,16,1496,88.73,5.0,4.7
@@ -3191,7 +3134,6 @@ Tata,Manza,Jaipur,7,79000.0,Diesel,Manual,First,21,1248,88.8,5.0,2.59
 Mahindra,XUV500,Pune,4,87900.0,Diesel,Manual,First,16,2179,140.0,7.0,12.01
 Maruti,Swift,Delhi,9,72425.0,Petrol,Manual,Second,17,1197,85.8,5.0,2.45
 Audi,Q3,Bangalore,4,38000.0,Diesel,Automatic,First,15,1968,174.33,5.0,29.0
-Ford,Fiesta,Hyderabad,11,83000.0,Diesel,Manual,Second,17,1399,,5.0,2.4
 Mercedes-Benz,New,Hyderabad,9,107000.0,Diesel,Automatic,First,14,2143,170.0,5.0,11.99
 Honda,City,Delhi,4,51000.0,Petrol,Automatic,First,18,1497,117.3,5.0,7.9
 Toyota,Innova,Pune,9,140000.0,Diesel,Manual,Third,12,2494,102.0,7.0,6.25
@@ -3337,7 +3279,6 @@ Toyota,Innova,Delhi,13,150000.0,Petrol,Manual,First,12,1998,132.0,8.0,4.5
 Chevrolet,Aveo,Jaipur,12,140000.0,Petrol,Manual,First,15,1150,74.9,5.0,0.9
 Hyundai,Getz,Hyderabad,13,63181.0,Petrol,Manual,First,15,1341,83.0,5.0,1.85
 Honda,Amaze,Kolkata,6,39575.0,Diesel,Manual,First,25,1498,98.6,5.0,3.25
-Maruti,Swift,Pune,9,63600.0,Diesel,Manual,Second,17,1248,,5.0,3.1
 Ford,Ecosport,Coimbatore,5,70374.0,Diesel,Manual,First,22,1498,89.84,5.0,7.34
 Volkswagen,CrossPolo,Kolkata,4,26256.0,Diesel,Manual,First,20,1498,88.5,5.0,4.25
 Hyundai,Elite,Delhi,3,13460.0,Petrol,Manual,First,18,1197,81.86,5.0,6.45
@@ -3412,7 +3353,6 @@ Honda,Amaze,Kochi,2,61795.0,Petrol,Manual,First,17,1198,86.7,5.0,5.53
 Mahindra,KUV,Chennai,3,13500.0,Petrol,Manual,First,18,1198,82.0,6.0,3.75
 Honda,City,Pune,1,4500.0,Petrol,Automatic,First,18,1497,117.3,5.0,12.5
 Mahindra,XUV500,Mumbai,2,23000.0,Diesel,Automatic,First,16,2179,140.0,7.0,15.5
-Hyundai,Santro,Pune,8,65400.0,Petrol,Manual,First,0,1086,,5.0,2.1
 Mercedes-Benz,New,Mumbai,6,80578.0,Diesel,Automatic,Second,14,2143,170.0,5.0,14.5
 Renault,Duster,Coimbatore,2,42646.0,Diesel,Automatic,First,19,1461,108.45,5.0,12.46
 Volkswagen,Polo,Bangalore,5,30000.0,Petrol,Manual,Second,16,1198,74.0,5.0,5.25
@@ -3427,7 +3367,6 @@ Maruti,Swift,Ahmedabad,7,48772.0,Petrol,Manual,First,18,1197,85.8,5.0,3.91
 Chevrolet,Beat,Chennai,9,66000.0,Petrol,Manual,First,18,1199,79.4,5.0,2.19
 Hyundai,Grand,Coimbatore,2,27417.0,Petrol,Automatic,First,18,1197,82.0,5.0,6.89
 Ford,Figo,Coimbatore,8,51593.0,Petrol,Manual,Second,15,1196,70.0,5.0,3.47
-Nissan,Teana,Mumbai,11,86340.0,Petrol,Automatic,Second,9,2349,,5.0,3.25
 Maruti,Swift,Pune,9,75000.0,Petrol,Manual,First,16,1298,88.2,5.0,2.85
 Audi,A4,Coimbatore,3,39237.0,Diesel,Automatic,First,17,1968,174.33,5.0,25.64
 Honda,City,Kochi,1,11966.0,Petrol,Manual,First,16,1497,116.3,5.0,10.28
@@ -3481,7 +3420,6 @@ Jeep,Compass,Kochi,1,42203.0,Diesel,Manual,First,17,1956,170.0,5.0,19.46
 Hyundai,Sonata,Hyderabad,10,94000.0,Diesel,Automatic,First,11,1991,142.0,5.0,5.25
 Tata,Nexon,Kolkata,1,4900.0,Diesel,Manual,First,21,1497,108.5,5.0,9.22
 Hyundai,EON,Jaipur,6,70000.0,Petrol,Manual,First,21,814,55.2,5.0,1.8
-Tata,Indica,Hyderabad,14,100000.0,Diesel,Manual,Second,13,1405,,5.0,1.3
 BMW,5,Kochi,4,65266.0,Diesel,Automatic,First,14,2993,258.0,5.0,31.75
 Maruti,Ertiga,Delhi,5,54569.0,Diesel,Manual,First,20,1248,88.76,7.0,5.99
 Honda,Amaze,Kochi,4,51361.0,Petrol,Manual,First,18,1198,86.7,5.0,4.94
@@ -3519,7 +3457,6 @@ ISUZU,D-MAX,Coimbatore,1,20422.0,Diesel,Manual,First,12,2499,134.0,5.0,16.09
 Hyundai,Verna,Kolkata,7,38000.0,Diesel,Manual,First,24,1396,88.7,5.0,4.1
 Ford,Figo,Coimbatore,4,92885.0,Diesel,Manual,First,20,1399,68.0,5.0,3.56
 Honda,City,Pune,9,43000.0,Petrol,Manual,Second,17,1497,118.0,5.0,4.21
-Maruti,Swift,Coimbatore,3,70478.0,Diesel,Manual,First,17,1248,,5.0,6.86
 Hyundai,Verna,Delhi,4,57000.0,Diesel,Manual,First,23,1582,126.2,5.0,6.6
 Hyundai,Creta,Coimbatore,1,32434.0,Petrol,Automatic,First,13,1591,121.3,5.0,14.35
 Ford,Ecosport,Hyderabad,2,32000.0,Diesel,Manual,First,22,1498,89.84,5.0,9.5
@@ -3529,7 +3466,6 @@ Ford,Figo,Hyderabad,3,100000.0,Diesel,Manual,First,25,1498,99.0,5.0,5.1
 Hyundai,Verna,Pune,6,37086.0,Petrol,Automatic,First,17,1591,121.3,5.0,5.44
 Ford,Ikon,Jaipur,9,135000.0,Diesel,Manual,First,13,1399,68.0,5.0,1.6
 Audi,A6,Kochi,5,54862.0,Diesel,Automatic,First,17,1968,174.33,5.0,16.67
-Honda,CR-V,Hyderabad,9,67758.0,Petrol,Manual,First,10,2354,,5.0,9.5
 Hyundai,i20,Pune,7,56200.0,Petrol,Automatic,First,15,1396,98.6,5.0,3.85
 Toyota,Fortuner,Kochi,8,169006.0,Diesel,Manual,First,14,2755,174.5,7.0,10.64
 Renault,KWID,Bangalore,3,20229.0,Petrol,Manual,First,25,799,53.3,5.0,3.5
@@ -3559,7 +3495,6 @@ Tata,Nano,Coimbatore,2,18351.0,Petrol,Automatic,First,21,624,37.48,4.0,3.41
 Honda,Brio,Pune,6,45000.0,Petrol,Manual,Second,19,1198,86.8,5.0,3.25
 Maruti,Ertiga,Hyderabad,3,112200.0,Diesel,Manual,First,24,1248,88.5,7.0,8.3
 Hyundai,i10,Bangalore,9,29000.0,Petrol,Manual,First,20,1197,78.9,5.0,3.45
-Hyundai,Santro,Hyderabad,12,57309.0,Petrol,Manual,First,17,1086,,5.0,2.1
 Mahindra,XUV500,Mumbai,4,53392.0,Diesel,Manual,First,16,2179,140.0,7.0,11.95
 Volkswagen,Vento,Hyderabad,9,71000.0,Diesel,Manual,First,20,1598,103.6,5.0,4.25
 Tata,Safari,Hyderabad,5,93000.0,Diesel,Manual,First,14,2179,138.1,7.0,8.25
@@ -3622,7 +3557,6 @@ Hyundai,i20,Kochi,6,67914.0,Diesel,Manual,First,23,1396,90.0,5.0,3.45
 Audi,A4,Bangalore,4,58970.0,Diesel,Automatic,First,17,1968,174.33,5.0,23.75
 Nissan,Terrano,Mumbai,6,60000.0,Diesel,Manual,Second,19,1461,108.5,5.0,5.45
 Maruti,Celerio,Coimbatore,2,35225.0,Petrol,Automatic,First,23,998,67.04,5.0,5.25
-Maruti,Esteem,Delhi,14,69496.0,Petrol,Manual,First,15,1298,,5.0,1.1
 Hyundai,i10,Delhi,7,62282.0,Petrol,Automatic,First,16,1197,78.9,5.0,2.9
 BMW,3,Hyderabad,9,80000.0,Diesel,Automatic,First,22,1995,190.0,5.0,14.2
 Hyundai,Grand,Kochi,1,43698.0,Petrol,Manual,First,18,1197,82.0,5.0,5.8
@@ -3688,7 +3622,6 @@ Ford,Fiesta,Chennai,11,94873.0,Petrol,Manual,Second,15,1596,101.0,5.0,1.85
 BMW,3,Mumbai,4,56000.0,Diesel,Automatic,First,18,1995,184.0,5.0,22.75
 Maruti,Baleno,Kochi,1,18678.0,Petrol,Manual,First,21,998,100.0,5.0,8.32
 Mercedes-Benz,E-Class,Delhi,5,30000.0,Diesel,Automatic,First,14,2143,203.0,5.0,26.0
-Ford,Endeavour,Mumbai,7,129000.0,Diesel,Automatic,First,12,2953,,5.0,7.0
 Hyundai,i10,Hyderabad,6,59000.0,Petrol,Manual,First,20,1197,78.9,5.0,3.45
 Hyundai,Grand,Mumbai,2,13000.0,Petrol,Manual,First,18,1197,82.0,5.0,5.15
 Honda,Brio,Kochi,5,74325.0,Petrol,Manual,First,19,1198,86.8,5.0,3.51
@@ -3766,7 +3699,6 @@ Mahindra,XUV500,Kochi,1,25948.0,Diesel,Automatic,First,16,2179,140.0,7.0,16.46
 Honda,Jazz,Mumbai,3,28500.0,Petrol,Manual,First,18,1199,88.7,5.0,5.95
 Honda,City,Mumbai,4,28004.0,Petrol,Manual,First,17,1497,117.3,5.0,7.1
 Fiat,Grande,Kolkata,8,25000.0,Petrol,Manual,Second,15,1172,67.0,5.0,1.25
-Maruti,Estilo,Kolkata,9,40000.0,Petrol,Manual,Second,19,1061,,5.0,2.5
 Maruti,Ertiga,Pune,6,82543.0,Petrol,Manual,First,16,1373,93.7,7.0,5.5
 Nissan,Micra,Chennai,6,30000.0,Petrol,Manual,First,18,1198,75.0,5.0,3.25
 Honda,City,Hyderabad,9,27800.0,Petrol,Manual,First,17,1497,118.0,5.0,5.0
@@ -3782,7 +3714,6 @@ Toyota,Innova,Hyderabad,9,170000.0,Diesel,Manual,Second,12,2494,102.0,7.0,6.5
 Mahindra,XUV500,Pune,8,90000.0,Diesel,Manual,Second,15,2179,140.0,7.0,6.1
 Maruti,Swift,Hyderabad,9,130000.0,Diesel,Manual,First,19,1248,73.9,5.0,3.85
 Volkswagen,Vento,Pune,6,65000.0,Petrol,Manual,Second,15,1598,103.6,5.0,4.5
-Toyota,Etios,Coimbatore,6,46496.0,Diesel,Manual,First,23,1364,,5.0,5.3
 Audi,A4,Bangalore,6,76000.0,Diesel,Automatic,Second,16,1968,147.51,5.0,18.25
 Maruti,Ertiga,Ahmedabad,7,28002.0,Petrol,Manual,First,16,1373,93.7,7.0,5.75
 Maruti,800,Jaipur,9,70000.0,Petrol,Manual,Second,16,796,37.0,4.0,0.9
@@ -3812,7 +3743,6 @@ Maruti,Ignis,Mumbai,2,19000.0,Diesel,Manual,First,26,1248,74.0,5.0,5.91
 Maruti,Ciaz,Mumbai,2,19416.0,Petrol,Manual,First,21,1462,103.25,5.0,8.25
 Maruti,Swift,Mumbai,7,15500.0,Petrol,Manual,First,17,1298,85.8,5.0,3.75
 Honda,City,Hyderabad,2,12538.0,Petrol,Automatic,First,18,1497,117.3,5.0,12.5
-Maruti,Swift,Bangalore,4,62588.0,Diesel,Manual,First,17,1248,,5.0,5.95
 Honda,Brio,Delhi,4,44328.0,Petrol,Manual,First,19,1198,86.8,5.0,3.8
 Toyota,Etios,Delhi,5,63000.0,Diesel,Manual,First,23,1364,67.04,5.0,4.35
 Volvo,XC60,Hyderabad,4,100000.0,Diesel,Automatic,First,13,2400,215.0,5.0,32.5
@@ -3879,7 +3809,6 @@ Hyundai,i20,Pune,8,54000.0,Petrol,Manual,First,17,1197,80.0,5.0,3.2
 BMW,3,Delhi,7,76000.0,Diesel,Automatic,First,16,1995,181.0,4.0,8.75
 Hyundai,i20,Kolkata,4,27000.0,Diesel,Manual,First,21,1396,88.73,5.0,5.99
 Mahindra,Scorpio,Chennai,14,120000.0,Diesel,Manual,Second,12,2609,116.6,8.0,2.9
-Audi,A4,Hyderabad,7,125000.0,Petrol,Automatic,First,10,3197,,5.0,18.0
 Ford,Figo,Kolkata,8,37000.0,Diesel,Manual,First,20,1399,68.05,5.0,1.8
 Honda,Accord,Mumbai,7,42000.0,Petrol,Manual,First,9,2354,180.0,5.0,6.25
 Hyundai,i20,Bangalore,6,60000.0,Diesel,Manual,First,21,1396,88.76,5.0,5.45
@@ -3956,10 +3885,8 @@ Tata,Indica,Mumbai,13,133000.0,Diesel,Manual,Second,16,1405,68.0,5.0,0.86
 Toyota,Fortuner,Delhi,9,76000.0,Diesel,Manual,First,11,2982,171.0,7.0,9.25
 Hyundai,i10,Mumbai,8,15590.0,Petrol,Manual,First,19,1086,68.05,5.0,2.25
 Hyundai,i20,Kochi,3,69681.0,Petrol,Manual,First,17,1197,80.0,5.0,6.13
-Maruti,Baleno,Kochi,13,70362.0,Petrol,Manual,Second,15,1590,,5.0,1.81
 Honda,Amaze,Pune,5,49112.0,Petrol,Automatic,Second,15,1198,86.7,5.0,3.79
 Land,Rover,Hyderabad,2,25000.0,Diesel,Automatic,First,13,2993,255.0,5.0,160.0
-Toyota,Etios,Mumbai,8,74000.0,Diesel,Manual,First,23,1364,,5.0,3.6
 Hyundai,i10,Pune,6,15200.0,Petrol,Automatic,Second,16,1197,78.9,5.0,3.85
 Volkswagen,Polo,Hyderabad,6,86300.0,Diesel,Manual,First,22,1199,73.9,5.0,4.5
 Maruti,Baleno,Coimbatore,1,26731.0,Petrol,Manual,First,21,998,100.0,5.0,8.61
@@ -4225,7 +4152,6 @@ Mercedes-Benz,GLA,Delhi,4,27000.0,Diesel,Automatic,First,17,2143,136.0,5.0,23.0
 Toyota,Innova,Coimbatore,0,31271.0,Diesel,Manual,First,13,2393,147.8,8.0,21.42
 Maruti,Swift,Delhi,5,24000.0,Diesel,Manual,First,25,1248,74.0,5.0,5.21
 Toyota,Innova,Hyderabad,10,147000.0,Diesel,Manual,First,12,2494,100.6,7.0,7.5
-Toyota,Etios,Delhi,7,72351.0,Diesel,Manual,First,23,1364,,5.0,2.65
 Chevrolet,Beat,Chennai,9,115000.0,Petrol,Manual,First,18,1199,79.4,5.0,1.75
 Ford,Ikon,Jaipur,9,82000.0,Diesel,Manual,Second,13,1399,68.0,5.0,1.0
 Mercedes-Benz,New,Delhi,3,20000.0,Diesel,Automatic,First,19,2143,170.0,5.0,33.0
@@ -4574,7 +4500,6 @@ BMW,X3,Bangalore,3,49000.0,Diesel,Automatic,First,16,2993,258.0,5.0,45.0
 Hyundai,i20,Chennai,9,95000.0,Petrol,Manual,Second,18,1197,80.0,5.0,2.8
 Hyundai,Grand,Pune,4,32000.0,Petrol,Automatic,First,18,1197,82.0,5.0,4.8
 Ford,Fiesta,Hyderabad,5,122800.0,Diesel,Manual,First,25,1498,89.75,5.0,5.65
-Mercedes-Benz,E-Class,Ahmedabad,8,78000.0,Diesel,Manual,Second,15,2148,,5.0,14.5
 Maruti,Swift,Ahmedabad,4,69000.0,Diesel,Manual,First,26,1248,74.0,5.0,5.9
 Toyota,Etios,Pune,4,65000.0,Diesel,Manual,Second,23,1364,67.04,5.0,5.0
 Hyundai,Xcent,Ahmedabad,4,23000.0,Petrol,Manual,First,19,1197,82.0,5.0,4.9
@@ -4603,7 +4528,6 @@ Honda,Amaze,Bangalore,6,61510.0,Diesel,Manual,First,25,1498,98.6,5.0,4.75
 Honda,City,Delhi,5,60000.0,Petrol,Manual,First,17,1497,117.3,5.0,6.25
 Mini,Cooper,Bangalore,5,35165.0,Diesel,Automatic,Second,23,1998,112.0,5.0,22.0
 Toyota,Corolla,Kochi,3,41617.0,Petrol,Automatic,First,14,1794,138.1,5.0,14.14
-Hyundai,Santro,Kolkata,14,45000.0,Petrol,Manual,First,17,1086,,5.0,0.95
 Skoda,Superb,Delhi,5,65000.0,Petrol,Automatic,First,13,1798,157.75,5.0,11.95
 Maruti,Wagon,Delhi,8,68000.0,Petrol,Manual,First,18,998,67.1,5.0,2.5
 Hyundai,i10,Mumbai,6,49000.0,Petrol,Manual,First,19,1086,68.05,5.0,2.75
@@ -4738,7 +4662,6 @@ Toyota,Fortuner,Hyderabad,7,158000.0,Diesel,Automatic,First,12,2982,168.5,7.0,17
 Hyundai,i10,Coimbatore,5,31446.0,Petrol,Manual,First,20,1197,78.9,5.0,4.66
 Hyundai,Grand,Chennai,4,25000.0,Petrol,Manual,First,18,1197,82.0,5.0,5.5
 Hyundai,i20,Ahmedabad,3,57000.0,Petrol,Manual,First,18,1197,81.83,5.0,6.0
-Hyundai,Santro,Hyderabad,12,76000.0,Petrol,Automatic,First,17,1086,,5.0,2.4
 Maruti,Vitara,Kochi,1,57078.0,Diesel,Manual,First,24,1248,88.5,5.0,10.19
 Honda,Amaze,Kochi,3,47471.0,Diesel,Manual,First,25,1498,98.6,5.0,5.25
 Mercedes-Benz,M-Class,Hyderabad,5,50000.0,Diesel,Automatic,First,15,2143,203.2,5.0,45.0
@@ -4752,7 +4675,6 @@ Honda,Brio,Pune,7,59000.0,Petrol,Manual,First,19,1198,86.8,5.0,3.25
 Ford,Figo,Mumbai,5,33000.0,Diesel,Manual,Second,20,1399,68.05,5.0,3.25
 Maruti,Celerio,Pune,3,36789.0,Petrol,Automatic,First,23,998,67.04,5.0,4.25
 Mercedes-Benz,New,Jaipur,5,41000.0,Diesel,Automatic,First,14,2143,170.0,5.0,18.5
-Hyundai,Santro,Hyderabad,12,71000.0,Petrol,Automatic,First,17,1086,,5.0,2.4
 Honda,Brio,Jaipur,4,46650.0,Petrol,Manual,First,19,1198,86.8,5.0,4.25
 Maruti,Baleno,Mumbai,1,3000.0,Petrol,Automatic,First,21,1197,83.1,5.0,8.85
 Hyundai,EON,Coimbatore,5,14799.0,Petrol,Manual,First,21,814,55.2,5.0,4.14
@@ -4803,7 +4725,6 @@ Maruti,Swift,Bangalore,11,100000.0,Diesel,Manual,Second,17,1248,75.0,5.0,3.0
 Ford,Aspire,Kolkata,2,60048.0,Diesel,Manual,First,26,1498,99.0,5.0,6.0
 Hyundai,i10,Mumbai,10,48000.0,Petrol,Manual,First,20,1197,78.9,5.0,2.11
 Maruti,Alto,Jaipur,8,100000.0,Petrol,Manual,First,19,796,46.3,5.0,1.5
-Toyota,Etios,Coimbatore,6,62601.0,Diesel,Manual,First,23,1364,,5.0,4.67
 Maruti,Swift,Bangalore,13,80010.0,Petrol,Manual,Second,20,1197,81.8,5.0,2.85
 Mercedes-Benz,New,Coimbatore,2,26493.0,Diesel,Automatic,First,19,2143,170.0,5.0,33.64
 Tata,Indica,Hyderabad,8,96000.0,Diesel,Manual,Second,17,1396,52.8,5.0,0.91
@@ -4911,7 +4832,6 @@ Maruti,Swift,Pune,6,55000.0,Petrol,Manual,First,17,1298,85.8,5.0,4.25
 Maruti,Celerio,Kolkata,1,30000.0,Petrol,Manual,First,23,998,67.04,5.0,3.75
 Hyundai,Creta,Mumbai,3,28000.0,Petrol,Automatic,First,13,1591,121.3,5.0,11.85
 Ford,Ecosport,Kochi,3,31826.0,Diesel,Manual,First,22,1498,89.84,5.0,8.24
-Maruti,Swift,Hyderabad,3,64000.0,Diesel,Manual,First,17,1248,,5.0,5.99
 Honda,CR-V,Jaipur,11,100009.0,Petrol,Manual,Second,13,1997,141.1,5.0,6.5
 Land,Rover,Coimbatore,0,17201.0,Diesel,Automatic,First,12,2179,187.7,7.0,58.91
 Mahindra,XUV500,Delhi,5,74345.0,Diesel,Manual,First,15,2179,140.0,7.0,8.0
@@ -4965,7 +4885,6 @@ Maruti,Swift,Pune,9,90246.0,Petrol,Manual,First,16,1298,88.2,5.0,2.95
 Tata,Indica,Hyderabad,4,80500.0,Diesel,Manual,First,25,1396,69.0,5.0,2.45
 Mercedes-Benz,New,Pune,7,119000.0,Diesel,Automatic,First,14,2143,170.0,5.0,13.99
 Mercedes-Benz,GLE,Bangalore,3,28541.0,Diesel,Automatic,First,11,2987,254.79,5.0,60.75
-Hyundai,Santro,Kolkata,11,45500.0,Petrol,Manual,Second,0,1086,,5.0,1.17
 Honda,City,Chennai,7,41000.0,Petrol,Manual,Second,16,1497,116.3,5.0,4.5
 Hyundai,i20,Mumbai,9,58000.0,Petrol,Manual,Second,18,1197,80.0,5.0,2.5
 Toyota,Fortuner,Chennai,4,99000.0,Diesel,Manual,First,13,2982,168.5,7.0,20.5
@@ -5071,7 +4990,6 @@ Volkswagen,Jetta,Kochi,6,76718.0,Diesel,Automatic,First,16,1968,138.03,5.0,6.51
 Honda,Amaze,Pune,3,138000.0,Diesel,Manual,First,25,1498,98.6,5.0,5.15
 Mahindra,XUV500,Hyderabad,6,140000.0,Diesel,Manual,Second,15,2179,140.0,7.0,9.0
 Toyota,Corolla,Mumbai,11,110000.0,Petrol,Automatic,Second,14,1798,138.1,5.0,2.75
-Hyundai,Santro,Pune,14,126000.0,Petrol,Manual,Second,17,1086,,5.0,1.2
 BMW,3,Bangalore,7,73000.0,Diesel,Automatic,First,22,1995,190.0,5.0,12.5
 Ford,EcoSport,Kochi,2,63423.0,Diesel,Manual,First,23,1498,98.96,5.0,7.69
 Hyundai,i20,Kochi,6,62132.0,Petrol,Manual,First,18,1197,82.85,5.0,4.57
@@ -5267,7 +5185,6 @@ Maruti,Swift,Hyderabad,5,108000.0,Diesel,Manual,First,25,1248,74.0,5.0,5.5
 Hyundai,Santa,Bangalore,3,36000.0,Diesel,Automatic,First,11,2199,194.3,7.0,23.0
 Tata,Indica,Hyderabad,6,62188.0,Diesel,Manual,First,17,1396,53.5,5.0,2.95
 Hyundai,Grand,Kochi,4,58397.0,Diesel,Manual,First,24,1120,70.0,5.0,4.9
-Hyundai,Santro,Chennai,13,85000.0,Petrol,Manual,Third,0,1086,,5.0,1.3
 Maruti,Wagon,Delhi,3,30000.0,Petrol,Automatic,First,22,998,67.0,5.0,4.25
 Mahindra,XUV500,Kochi,1,29907.0,Diesel,Manual,First,16,2179,140.0,7.0,16.36
 Audi,A4,Kolkata,10,46000.0,Diesel,Automatic,First,16,1968,147.51,5.0,9.95
@@ -5278,7 +5195,6 @@ Honda,WR-V,Kochi,0,13913.0,Petrol,Manual,First,17,1199,88.7,5.0,8.2
 Honda,City,Chennai,5,71000.0,Diesel,Manual,Second,25,1498,98.6,5.0,6.2
 Toyota,Fortuner,Chennai,7,97000.0,Diesel,Automatic,First,11,2982,169.0,7.0,16.75
 Mahindra,XUV500,Delhi,2,21000.0,Diesel,Automatic,First,16,2179,140.0,7.0,16.5
-Ford,Endeavour,Mumbai,12,116000.0,Diesel,Manual,Third,10,2499,,7.0,3.75
 Ford,Figo,Kolkata,7,110438.0,Diesel,Manual,First,20,1399,68.05,5.0,3.5
 Honda,Jazz,Coimbatore,2,66507.0,Petrol,Automatic,Second,19,1199,88.7,5.0,5.43
 Ford,Endeavour,Coimbatore,2,54650.0,Diesel,Automatic,First,10,3198,197.0,7.0,30.35
@@ -5297,7 +5213,6 @@ Hyundai,Verna,Kochi,10,137148.0,Petrol,Manual,Second,13,1599,103.2,5.0,1.85
 Ford,Figo,Kolkata,9,114703.0,Petrol,Manual,First,15,1196,70.0,5.0,1.8
 Honda,Amaze,Kochi,5,97439.0,Diesel,Manual,First,25,1498,98.6,5.0,4.41
 Maruti,Wagon,Chennai,13,40000.0,Petrol,Manual,First,18,998,67.1,5.0,2.0
-Maruti,Swift,Hyderabad,5,81609.0,Diesel,Manual,First,17,1248,,5.0,5.55
 Mercedes-Benz,E-Class,Bangalore,5,28000.0,Diesel,Automatic,First,13,2987,258.0,5.0,31.75
 Audi,A6,Bangalore,4,37500.0,Diesel,Automatic,First,17,1968,174.33,5.0,32.0
 Mercedes-Benz,S,Hyderabad,9,37000.0,Diesel,Automatic,First,13,2987,282.0,5.0,21.0
@@ -5367,11 +5282,9 @@ Mercedes-Benz,New,Bangalore,3,37944.0,Diesel,Automatic,First,14,2143,167.62,5.0,
 Ford,Ecosport,Mumbai,2,30000.0,Diesel,Manual,First,22,1498,89.84,5.0,8.75
 Toyota,Etios,Coimbatore,4,64005.0,Petrol,Manual,First,17,1197,78.9,5.0,4.57
 Hyundai,i10,Delhi,7,62000.0,Petrol,Manual,First,20,1197,78.9,5.0,2.5
-Hyundai,Santro,Chennai,14,105000.0,Petrol,Manual,First,0,999,,5.0,1.75
 Land,Rover,Kochi,5,59885.0,Diesel,Automatic,First,12,2179,147.51,5.0,20.11
 Toyota,Innova,Hyderabad,8,144471.0,Diesel,Manual,First,12,2494,102.0,8.0,7.8
 Hyundai,i20,Coimbatore,8,63991.0,Petrol,Manual,First,18,1197,80.0,5.0,3.61
-Hyundai,Santro,Pune,12,72000.0,Petrol,Manual,Second,17,1086,,5.0,1.11
 Nissan,Micra,Mumbai,4,34895.0,Petrol,Automatic,First,19,1198,75.94,5.0,4.6
 BMW,X6,Ahmedabad,4,97003.0,Diesel,Automatic,First,15,2993,308.43,5.0,85.0
 Honda,City,Kolkata,4,45000.0,Petrol,Automatic,First,16,1497,118.0,5.0,5.25
@@ -5585,11 +5498,9 @@ BMW,3,Hyderabad,4,30000.0,Diesel,Automatic,First,18,1995,184.0,5.0,22.0
 Honda,City,Hyderabad,3,53000.0,Diesel,Manual,First,26,1498,98.6,5.0,9.75
 Nissan,Terrano,Jaipur,5,60000.0,Diesel,Manual,First,20,1461,83.8,5.0,6.0
 Hyundai,Grand,Delhi,5,65000.0,Diesel,Manual,First,24,1120,70.0,5.0,3.99
-Hyundai,Santro,Ahmedabad,11,51000.0,Petrol,Manual,First,17,1086,,5.0,1.75
 Toyota,Fortuner,Delhi,4,92000.0,Diesel,Automatic,First,12,2982,168.5,7.0,19.75
 Toyota,Innova,Kolkata,2,31000.0,Diesel,Manual,First,13,2393,147.8,7.0,16.95
 Maruti,Baleno,Chennai,2,43917.0,Petrol,Manual,First,21,1197,83.1,5.0,6.8
-Hyundai,Santro,Kolkata,12,46707.0,Petrol,Manual,First,17,1086,,5.0,0.99
 Hyundai,i10,Pune,6,84000.0,Petrol,Manual,First,19,1086,68.05,5.0,2.95
 Audi,Q7,Coimbatore,4,55662.0,Diesel,Automatic,First,12,2967,241.4,7.0,42.83
 Volvo,S60,Hyderabad,5,51000.0,Diesel,Automatic,First,27,1969,190.0,5.0,21.5
@@ -5691,7 +5602,6 @@ Maruti,Zen,Jaipur,10,63000.0,Petrol,Manual,Second,18,998,67.1,5.0,1.25
 Maruti,Alto,Kochi,5,36967.0,Petrol,Manual,First,20,998,67.1,5.0,3.64
 Toyota,Fortuner,Jaipur,3,73053.0,Diesel,Manual,First,13,2982,168.5,7.0,20.0
 Mahindra,Thar,Coimbatore,0,16392.0,Diesel,Manual,First,16,2498,105.0,6.0,10.36
-Hyundai,Santro,Chennai,12,79000.0,Petrol,Manual,First,17,1086,,5.0,1.85
 Toyota,Etios,Jaipur,6,67000.0,Petrol,Manual,Second,16,1496,88.73,5.0,4.05
 Mercedes-Benz,GL-Class,Mumbai,4,48600.0,Diesel,Automatic,First,12,2987,224.0,7.0,48.5
 Renault,Duster,Bangalore,5,70000.0,Diesel,Manual,First,19,1461,108.45,5.0,8.25
@@ -5703,7 +5613,6 @@ Maruti,Wagon,Kolkata,8,37000.0,Petrol,Manual,Second,18,998,67.1,5.0,2.1
 Renault,KWID,Kochi,2,32587.0,Petrol,Manual,First,25,799,53.3,5.0,3.71
 Ford,Endeavour,Pune,10,170000.0,Diesel,Manual,First,10,2499,143.0,7.0,7.5
 Maruti,Vitara,Kochi,2,21248.0,Diesel,Manual,First,24,1248,88.5,5.0,9.44
-Hyundai,Santro,Pune,13,47200.0,Petrol,Manual,Second,17,1086,,5.0,1.2
 Mercedes-Benz,E-Class,Delhi,5,40000.0,Petrol,Automatic,First,10,1796,157.7,5.0,24.0
 Mercedes-Benz,C-Class,Ahmedabad,0,4000.0,Diesel,Automatic,First,0,1950,194.0,5.0,35.0
 Audi,A4,Delhi,8,57000.0,Diesel,Automatic,Second,16,1968,147.51,5.0,9.75
@@ -5720,7 +5629,6 @@ Maruti,Alto,Chennai,5,52000.0,Petrol,Manual,First,20,998,67.1,5.0,2.7
 Maruti,Ertiga,Hyderabad,4,59245.0,Diesel,Manual,First,20,1248,88.8,7.0,8.5
 Hyundai,i20,Pune,1,31000.0,Diesel,Manual,First,22,1396,88.73,5.0,7.75
 Tata,Indigo,Pune,4,83000.0,Petrol,Manual,First,15,1193,64.08,5.0,2.7
-Maruti,Estilo,Chennai,11,51000.0,Petrol,Manual,Second,19,1061,,5.0,1.75
 Hyundai,Creta,Hyderabad,1,9900.0,Petrol,Manual,First,15,1591,121.3,5.0,13.2
 Toyota,Etios,Kochi,2,27100.0,Petrol,Manual,First,16,1496,88.73,5.0,6.37
 Toyota,Etios,Kolkata,4,12000.0,Petrol,Manual,First,16,1496,88.73,5.0,4.5
@@ -5749,7 +5657,6 @@ Mercedes-Benz,E-Class,Mumbai,3,21000.0,Diesel,Automatic,First,13,2143,204.0,5.0,
 Volkswagen,Vento,Kochi,4,57026.0,Petrol,Manual,First,15,1598,103.6,5.0,5.54
 Skoda,Superb,Mumbai,2,42000.0,Diesel,Automatic,First,18,1968,174.5,5.0,22.99
 Mahindra,Scorpio,Kochi,2,26741.0,Diesel,Manual,First,15,1997,120.0,7.0,10.08
-Skoda,Laura,Pune,9,85000.0,Petrol,Manual,First,17,1798,,5.0,2.85
 Audi,Q5,Coimbatore,1,29091.0,Diesel,Automatic,First,13,2967,241.4,5.0,45.52
 Mahindra,NuvoSport,Coimbatore,1,37323.0,Diesel,Manual,Second,17,1493,100.0,7.0,7.29
 Volkswagen,Vento,Chennai,8,55595.0,Diesel,Manual,Second,20,1598,103.6,5.0,4.3
@@ -5805,7 +5712,6 @@ Maruti,Baleno,Mumbai,2,6000.0,Petrol,Manual,First,21,1197,83.1,5.0,7.5
 Tata,Hexa,Jaipur,3,39000.0,Diesel,Automatic,First,17,2179,153.86,7.0,13.5
 Volkswagen,Polo,Kolkata,8,55001.0,Petrol,Manual,First,16,1198,73.9,5.0,2.2
 Mercedes-Benz,New,Mumbai,7,63720.0,Petrol,Automatic,First,11,1796,186.0,5.0,13.25
-Toyota,Etios,Delhi,6,70000.0,Diesel,Manual,First,23,1364,,5.0,3.88
 Hyundai,Getz,Jaipur,14,100000.0,Petrol,Manual,Second,15,1341,83.0,5.0,0.85
 Tata,Tiago,Kochi,2,15386.0,Petrol,Manual,First,23,1199,84.0,5.0,5.11
 Renault,Duster,Mumbai,6,102486.0,Diesel,Manual,First,19,1461,83.8,5.0,4.25
