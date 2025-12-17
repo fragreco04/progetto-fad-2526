@@ -26,3 +26,9 @@ print(tabella_frequenza)
 
 Consiglio per il tool:
 Utilizzare un classificatore, in cui dentro creiamo dei regressori
+
+
+---- PARTE 1: SISTEMAZIONI-----
+Le scale delle variabili vengono convertite perché a un modello di regressione lineare, per come è costruito matematicamente, è meglio utilizzare scale nominali e ratio. Semplicemente Owner_Type quando sarà convertita in discreta non dovrà essere: 1,2,3,4. Ma invece in dummy variables: Is_First_Hand (0 o 1) ecc...
+Year trasformata in Age, seguirà direttamente la scala ratio, in quanto in Age, lo 0, è un valore VERO.
+
