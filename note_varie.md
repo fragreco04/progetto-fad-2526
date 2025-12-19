@@ -29,6 +29,18 @@ Utilizzare un classificatore, in cui dentro creiamo dei regressori
 
 
 ---- PARTE 1: SISTEMAZIONI-----
-Le scale delle variabili vengono convertite perché a un modello di regressione lineare, per come è costruito matematicamente, è meglio utilizzare scale nominali e ratio. Semplicemente Owner_Type quando sarà convertita in discreta non dovrà essere: 1,2,3,4. Ma invece in dummy variables: Is_First_Hand (0 o 1) ecc...
 Year trasformata in Age, seguirà direttamente la scala ratio, in quanto in Age, lo 0, è un valore VERO.
 
+--In brand le classi sono sbilanciate, non dovrebbe essere troppo un problema per un modello di regressione lineare, nel caso di quello logistico sì invece, potrebbe esserlo. Eventualmente fare binning o discretizzazione
+-- Kilometers da fare trasformazione logaritmica. Forse fare radice quadrata in realtà.
+-- Trasmission e Fuel_Type diventano 0 e 1
+-- Owner_type: variabile ordinale 1,2,3 per il problema delle classi sbilanciate
+-- Age apposto così, come anche location
+-- Mileage solo scaling
+-- Engine : logaritmo
+-- Power uguale engine, ma probabilmente si dovrà rimuovere
+-- Seats va bene così
+-- Price trasformazione
+
+Multicollinearità
+Tenere Power
