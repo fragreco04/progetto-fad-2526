@@ -31,16 +31,18 @@ Utilizzare un classificatore, in cui dentro creiamo dei regressori
 ---- PARTE 1: SISTEMAZIONI-----
 Year trasformata in Age, seguirà direttamente la scala ratio, in quanto in Age, lo 0, è un valore VERO.
 
---In brand le classi sono sbilanciate, non dovrebbe essere troppo un problema per un modello di regressione lineare, nel caso di quello logistico sì invece, potrebbe esserlo. Eventualmente fare binning o discretizzazione
+--In brand bisogna fare one hot 
 -- Kilometers da fare trasformazione logaritmica. Forse fare radice quadrata in realtà.
 -- Trasmission e Fuel_Type diventano 0 e 1
 -- Owner_type: variabile ordinale 1,2,3 per il problema delle classi sbilanciate
--- Age apposto così, come anche location
--- Mileage solo scaling
+-- Age apposto così
+-- Location fare one hot
+-- Mileage apposto
 -- Engine : logaritmo
 -- Power uguale engine, ma probabilmente si dovrà rimuovere
 -- Seats va bene così
--- Price trasformazione
+-- Price trasformazione logaritmica
+-- Infine standard scaler di tutto
 
 Multicollinearità
 Tenere Power
