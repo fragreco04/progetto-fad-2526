@@ -46,3 +46,5 @@ Year trasformata in Age, seguirà direttamente la scala ratio, in quanto in Age,
 
 Multicollinearità
 Tenere Power
+
+-- Verificare se rispondiamo a tutte le domande fatte all inzio dell analisi
