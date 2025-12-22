@@ -48,3 +48,6 @@ Multicollinearità
 Tenere Power
 
 -- Verificare se rispondiamo a tutte le domande fatte all inzio dell analisi
+
+
+# Schema per la parte 2
