@@ -51,3 +51,5 @@ Tenere Power
 
 
 # Schema per la parte 2
+
+-- Scrivere nei grafici dello scatterplot che c'è una relazione non lineare tra prezzo e potenza. e che potremmo dover utilizzare anche una regressione polinomiale.
