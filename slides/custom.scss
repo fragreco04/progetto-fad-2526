@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+$body-bg: #ffffff;
+$body-color: #212529;
+$link-color: #005f73;
+$selection-bg: #94d2bd;
+
+/*-- scss:rules --*/
+.reveal .slide h2 {
+  color: #005f73;
+  border-bottom: 2px solid #e9ecef;
+  padding-bottom: 10px;
+  font-weight: 600;
+}
+
+.reveal .footer {
+  font-size: 0.4em;
+  color: #adb5bd;
+}

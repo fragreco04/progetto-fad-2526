@@ -1,2 +1,2 @@
 TO DO:
-- Scrivere meglio 
+- Usare mapping in owner_type

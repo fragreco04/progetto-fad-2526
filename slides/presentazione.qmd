@@ -1,0 +1,31 @@
+## Analisi Performance 2026 {background-color="#ffffff"}
+
+::: columns
+::: {.column width="40%"}
+### Insight Chiave
+Il trend mostra una crescita organica del **24%** nel primo trimestre. 
+
+L'integrazione dei nuovi protocolli ha permesso di ridurre la latenza, ottimizzando la distribuzione delle risorse. Questo paragrafo serve a dare contesto ai dati che vedi a fianco.
+
+* **Efficienza:** +15%
+* **Costi:** -10%
+:::
+
+::: {.column width="60%"}
+```{python}
+#| echo: false
+import plotly.express as px
+
+# Grafico ultra-minimal e rifinito
+df = px.data.tips()
+fig = px.violin(df, y="total_bill", x="day", box=True,
+                color_discrete_sequence=['#204458'], 
+                template="simple_white")
+
+fig.update_layout(
+    margin=dict(l=0, r=0, t=30, b=0),
+    paper_bgcolor='rgba(0,0,0,0)',
+    plot_bgcolor='rgba(0,0,0,0)',
+    font=dict(family="Inter, sans-serif", size=14, color="#204458")
+)
+fig.show()
