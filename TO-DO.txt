@@ -1,7 +1,0 @@
-TO DO URGENTI:
-- Parte-1: Analisi Multivariata, fare bei grafici, usare tabelle di contingenza etc..
-- Parte-2: Conclusioni Parziali
-- Parte-3: COnclusioni, rispondere alle domande poste all'inizio
-
-TO DO:
-- PArte-1: Revisionare Inferenza Stat
